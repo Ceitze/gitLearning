@@ -7,7 +7,7 @@ public class Practice {
         //Hi EU2
         
         
-        //This line is wtitten from Github
+        //This line is written from Github
     }
 
 
